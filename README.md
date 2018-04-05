@@ -1,6 +1,6 @@
 # Conway's Game of Life with Go
 
-One of my first little proyects with the Go language. There is a simple and a concurrent version, which
+One of my first little projects with the Go language. There is a simple and a concurrent version, which
 has been inspired by the C + MPI program I use as a [basic example for domain decomposition in MPI in my HPC
 course](http://androbi.com/course/html/mpi_gameoflife.md.html). 
 
