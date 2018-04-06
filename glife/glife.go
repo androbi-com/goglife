@@ -102,5 +102,5 @@ func main() {
 	life(10, 8, 16, true, false)
 
     // bigger universe 1000x800, 10 steps, no print, timer
-	life(1000, 800, 10, false, true)
+	life(1000, 1000, 10, false, true)
 }

@@ -210,7 +210,7 @@ func main() {
 	life(10, 8, 16, 1, true, false)
 	life(10, 8, 16, 2, true, false)
 	// bigger universe 1000x800, 10 steps, 1-2-4 go-routines, no print, timer
-	life(1000, 800, 10, 1, false, true)
-	life(1000, 800, 10, 2, false, true)
-	life(1000, 800, 10, 4, false, true)
+	life(1000, 1000, 10, 1, false, true)
+	life(1000, 1000, 10, 2, false, true)
+	life(1000, 1000, 10, 4, false, true)
 }
